@@ -1,5 +1,5 @@
 <h1 align="center"> Rustamov Ixtiyor</h1>
-<h2 align="center">Junior web dev (Loves Backend)</h2>
+<h2 align="center">Junior React Web Dev (Loves Backend)</h2>
 
 
 <div align="center"><img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" alt="WELCOME"/></div>
