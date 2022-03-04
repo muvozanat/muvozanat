@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" alt="WELCOME"/></div>
 
-## Skills
+## Skills Front End
 
 - HTML
 - CSS
@@ -14,6 +14,9 @@
 - Typescript
 - ReactJS
 - Material UI
+
+## Skills Back End
+
 - NodeJS
 - Express
 - MongoDB
