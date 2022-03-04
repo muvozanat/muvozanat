@@ -2,7 +2,7 @@
 <h2 align="center">Junior web dev (Loves Backend)</h2>
 
 
-<div align="center"><img src="https://cdn.dribbble.com/users/23012/screenshots/2994574/wlecome.gif" alt="WELCOME" /></div>
+<div align="center"><img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" alt="WELCOME"/></div>
 
 ## Skills
 
