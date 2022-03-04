@@ -10,9 +10,10 @@
 - CSS
 - Bootstrap
 - Sass
-- JavaScript
+- Javascript
 - Typescript
 - ReactJS
+- Material UI
 - NodeJS
 - Express
 - MongoDB
