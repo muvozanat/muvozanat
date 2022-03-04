@@ -23,11 +23,11 @@
 - Telegram Bot
 
 
- ## Contact
+ ## Connect with Me
 - <a href="https://telegram.me/RustamovIxtiyor">Telegram</a>
 - <a href="mailto:rustamoff1414@gmail.com">Email</a>
 
-## Activity
+## My Github Activity
 
 <p>
  <div>
