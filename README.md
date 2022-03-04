@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center"> Rustamov Ixtiyor</h1>
+<h2 align="center">Junior web dev (Loves Backend)</h2>
 
-<!--
-**muvozanat/muvozanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center"><img src="https://cdn.dribbble.com/users/23012/screenshots/2994574/wlecome.gif" alt="WELCOME" /></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML
+- CSS
+- Bootstrap
+- Sass
+- JavaScript
+- Typescript
+- ReactJS
+- NodeJS
+- Express
+- MongoDB
+- Telegram Bot
+
+
+ ## Contact
+- <a href="https://telegram.me/RustamovIxtiyor">Telegram</a>
+- <a href="mailto:rustamoff1414@gmail.com">Email</a>
+
+## Activity
+
+<p>
+ <div>
+<img src="https://github-readme-stats.vercel.app/api?username=muvozanat&show_icons=true&theme=algolia&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="100%" align="center">
+   </div>
+</p>
