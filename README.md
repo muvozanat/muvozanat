@@ -23,7 +23,7 @@
 - <a href="https://telegram.me/RustamovIxtiyor">Telegram</a>
 - <a href="mailto:rustamoff1414@gmail.com">Email</a>
 
-## My Github Activity
+## My Github Statistics
 
 <p>
  <div>
