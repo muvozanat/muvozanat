@@ -30,3 +30,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=muvozanat&show_icons=true&theme=algolia&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="100%" align="center">
    </div>
 </p>
+
+## My most used languages
+
+<p>
+ <div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muvozanat&theme=algolia&layout=compact&langs_count=10&hide=Jupyter%20Notebook&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="100%" width="100%" align="center">
+   </div>
+</p>
+
