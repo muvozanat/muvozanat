@@ -1,11 +1,10 @@
 <h1 align="center"> Rustamov Ixtiyor</h1>
-<h2 align="center">Junior React Web Dev (Loves Backend)</h2>
+<h2 align="center">Junior React Web Dev</h2>
 
 
 <div align="center"><img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" alt="WELCOME"/></div>
 
-## Skills Front End
-
+## My Skills
 - HTML
 - CSS
 - Bootstrap
@@ -14,9 +13,6 @@
 - Typescript
 - ReactJS
 - Material UI
-
-## Skills Back End
-
 - NodeJS
 - Express
 - MongoDB
