@@ -10,6 +10,7 @@
 - Bootstrap
 - Javascript
 - Typescript
+- React
 - NodeJS
 - Express
 - MongoDB
