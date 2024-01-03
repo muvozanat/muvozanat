@@ -19,6 +19,7 @@
  ## Connect with Me
 - <a href="https://telegram.me/RustamovIxtiyor">Telegram</a>
 - <a href="mailto:rustamoff1414@gmail.com">Email</a>
+- <a href="https://filetransfer.io/data-package/ZuiMMhUT#link">Free TV</a>
 
 ## My Statistics
 
